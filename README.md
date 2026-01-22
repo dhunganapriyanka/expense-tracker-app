@@ -10,3 +10,8 @@ Categorize expenses for better organization
 Filter expenses by date  
 Filter expenses by category  
 Calculate total expenses
+
+## Programming Languages Used
+This application is implemented in both Python and C++.  
+The Python version focuses on simplicity, dynamic typing, and built in libraries for handling dates and data structures.  
+The C++ version focuses on performance, memory management, and the use of classes and STL containers to manage expense data.
