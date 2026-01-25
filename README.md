@@ -13,6 +13,7 @@ The Expense Tracker Application is a simple tool that helps users record and man
 
 ## Contributors
 - Priyanka Dhungana
+- Shobhit Dhamania
 
 ## Programming Languages Used
 This application is implemented in both Python and C++.
