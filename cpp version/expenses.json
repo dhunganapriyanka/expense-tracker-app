@@ -1,0 +1,74 @@
+{
+  "expenses": [
+    {
+      "amount": 50.0,
+      "category": "Food",
+      "date": {
+        "day": 15,
+        "month": 1,
+        "year": 2026
+      },
+      "description": "McDonalds"
+    },
+    {
+      "amount": 25.5,
+      "category": "Transport",
+      "date": {
+        "day": 16,
+        "month": 1,
+        "year": 2026
+      },
+      "description": "Delta Airlines"
+    },
+    {
+      "amount": 120.0,
+      "category": "Shopping",
+      "date": {
+        "day": 17,
+        "month": 1,
+        "year": 2026
+      },
+      "description": "Shoes"
+    },
+    {
+      "amount": 35.75,
+      "category": "Food",
+      "date": {
+        "day": 18,
+        "month": 1,
+        "year": 2026
+      },
+      "description": "Groceries"
+    },
+    {
+      "amount": 200.0,
+      "category": "Shopping",
+      "date": {
+        "day": 19,
+        "month": 1,
+        "year": 2026
+      },
+      "description": "Black Jacker"
+    },
+    {
+      "amount": 15.0,
+      "category": "Food",
+      "date": {
+        "day": 20,
+        "month": 1,
+        "year": 2026
+      },
+      "description": "Vanilla Latte"
+    },
+    {
+      "amount": 45.0,
+      "category": "Transport",
+      "date": {
+        "day": 21,
+        "month": 1,
+        "year": 2026
+      },
+      "description": "Uber to centannial"
+    }
+  ]
+}
