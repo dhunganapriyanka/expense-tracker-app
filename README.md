@@ -11,6 +11,9 @@ The Expense Tracker Application is a simple tool that helps users record and man
 - Filter expenses by category
 - Calculate total expenses
 
+## Contributors
+- Priyanka Dhungana
+
 ## Programming Languages Used
 This application is implemented in both Python and C++.
 The Python version focuses on simplicity, dynamic typing, and built in libraries for handling dates and data structures.

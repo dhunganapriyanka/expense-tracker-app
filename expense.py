@@ -1,3 +1,5 @@
+# Author: Priyanka Dhungana
+# Date: 2026-01-23
 # Expense class to store individual expense details
 from datetime import datetime
 
