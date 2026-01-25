@@ -36,6 +36,17 @@ Make sure you have Python installed on your computer.
    python main.py
    ```
 
+## How to Run (C++ Version)
+
+I provided a pre compile exe for easy use
+
+1. Run the program:
+   ```
+   expense-tracker/cpp version/x64/Release/GroupProject1.exe
+   ```
+
+You can also run this by installing gclang ++ compiler or any C compiler. Visual studio and code works with correct setup and compilers for C++.
+
 ## How to Use
 
 When you run the program, you'll see a menu as shown below.
@@ -86,3 +97,14 @@ This project demonstrates several Python features:
 - **Lists**: All expenses are stored in a list
 - **datetime library**: Handles date parsing and formatting
 - **Dynamic typing**: Python figures out variable types automatically
+
+## C++ Structure
+
+```
+expense-tracker-app/cpp version/
+|- expenses.json         #json for storage of data
+|- ExpenseTracker.cpp   #CPP file          
+|- ExpenseTracker.h   #Header
+|- GroupProject1.h  #The UI part
+|- json.hpp #hpp from https://github.com/nlohmann/json - json serialization/deserialization
+```
